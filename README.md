@@ -10,9 +10,6 @@ Feel free to explore my repositories where I showcase my data analysis projects,
 Let's connect and collaborate to bring data to life! 📊🔍
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently open to job opportunities
