@@ -6,6 +6,8 @@
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />
 </a>
 <br/>
+
+
 ### Hi there 👋
 
 I am a passionate data scientist/analyst with a love for transforming raw data into meaningful insights. My journey revolves around harnessing the power of data to uncover patterns, make informed decisions, and drive impactful solutions.
