@@ -17,23 +17,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any Data Science/Analysis Project
 - 💬 Ask me about ...
 - 📫 How to reach me:
-- <br/> <a href="https://www.linkedin.com/in/saket-prag-31b972157/">
+<br/> <a href="linkedin.com/in/seyi-aideyan/">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@saketprag322">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.instagram.com/sakigo_09/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/watch?v=eXlaZbQ0TiY&t=3s">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+<a href="mailto:seyiaideyan@live.com"> <img src="images/navigation_icon/email.png"> </a>
 <br />
-
-<br />
-
-
 
 
 **Community**
