@@ -1,10 +1,14 @@
 <br/>
+
+<a href="mailto:seyiaideyan@live.com">
+<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <a href="linkedin.com/in/seyi-aideyan/">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto:seyiaideyan@live.com">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />
-</a>
+
+
+
 <br/>
 
 
