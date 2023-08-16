@@ -1,25 +1,6 @@
-<br/>
 
-
-<a href="https://twitter.com/sakigo_09">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/saket-prag-31b972157/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@saketprag322">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.instagram.com/sakigo_09/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/watch?v=eXlaZbQ0TiY&t=3s">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<br />
-
-<br />
 ### Hi there 👋
+
 I am a passionate data scientist/analyst with a love for transforming raw data into meaningful insights. My journey revolves around harnessing the power of data to uncover patterns, make informed decisions, and drive impactful solutions.
 
 From predictive modeling to data visualization, I thrive on the challenge of exploring complex datasets and distilling them into actionable knowledge. With a strong foundation in programming languages like Python and R, and experience in tools such as SQL, Tableau, and Excel, I am dedicated to delivering data-driven solutions that empower organizations to thrive in today's data-rich world.
