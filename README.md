@@ -1,3 +1,10 @@
+<br/>
+<a href="linkedin.com/in/seyi-aideyan/">
+<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:seyiaideyan@live.com">
+<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />
+</a>
 
 ### Hi there 👋
 
@@ -15,15 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently open to job opportunities
 - 🌱 I’m currently learning Deep Learning Specialization
 - 👯 I’m looking to collaborate on any Data Science/Analysis Project
-- 💬 Ask me about ...
-- 📫 How to reach me:
-<br/>
-<a href="linkedin.com/in/seyi-aideyan/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:seyiaideyan@live.com">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />
-</a>
+
 <br />
 
 
