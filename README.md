@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any Data Science/Analysis Project
 - 💬 Ask me about ...
 - 📫 How to reach me:
-<br/> <a href="linkedin.com/in/seyi-aideyan/">
+<br/>
+<a href="linkedin.com/in/seyi-aideyan/">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:seyiaideyan@live.com">
+<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />
 </a>
 <a href="mailto:seyiaideyan@live.com"> <img src="images/navigation_icon/email.png"> </a>
 <br />
