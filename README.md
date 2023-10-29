@@ -12,7 +12,7 @@ Let's connect and collaborate to bring data to life! 📊🔍 <br/>
 <a href="linkedin.com/in/seyi-aideyan/">
 <img align="left" alt="Seyi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto:seyiaideyan@live.com">
+<a href="mailto:seyiaideyan@outlook.com">
 <img align="left" alt="Seyi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />
 <br/>
   
